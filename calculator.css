@@ -1,12 +1,14 @@
 
-.calculator-btn {
-  max-width: 300px;
-  align-content: center;
-}
 .btn-primary {
   background-color: #007cba;
   color: white;
 }
+
+.calculator-btn {
+  max-width: 300px;
+  align-content: center;
+}
+
 
 
 
