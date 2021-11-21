@@ -1,4 +1,16 @@
 
+
+
+.footer {
+  background-color: #007cba;
+  color: white;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
 .header-logo {
   width: 96px;
   height: auto;
@@ -10,5 +22,6 @@
 .calculator-btn {
   max-width: 300px;
   align-content: center;
+
 
 }
