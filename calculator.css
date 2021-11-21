@@ -8,6 +8,7 @@
   color: white;
 }
 
+
 .header-logo {
   width: 96px;
   height: auto;
@@ -17,8 +18,9 @@
   background-color: #007cba;
   color: white;
 }
-
 .calculator-btn {
   max-width: 300px;
   align-content: center;
-}
+
+  }
+
